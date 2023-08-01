@@ -50,7 +50,7 @@ function Home() {
                             <Link to={`/filme/${filme.id}`}>Acessar</Link>
                         </article>
                     );
-                })};
+                })}
             </div>
         </div>
     );
